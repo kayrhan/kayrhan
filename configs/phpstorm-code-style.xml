@@ -27,7 +27,6 @@
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
-    <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
     <option name="GROUP_USE_WRAP" value="2" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
@@ -38,6 +37,7 @@
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
     <option name="FORCE_EMPTY_METHODS_IN_ONE_LINE" value="true" />
     <option name="FORCE_EMPTY_CLASSES_IN_ONE_LINE" value="true" />
+    <option name="PHPDOC_USE_FQCN" value="true" />
     <option name="IF_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="IF_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="ATTRIBUTES_WRAP" value="2" />
@@ -91,6 +91,9 @@
     <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="2" />
+    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
