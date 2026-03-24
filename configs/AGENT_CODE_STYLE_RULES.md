@@ -38,7 +38,7 @@ Do not merge `.editorconfig` rules into this spec.
 - Do not preserve existing line breaks during reformatting.
 - Put `else`, `while`, `catch`, and `finally` on a new line.
 - Use no space before the `(` in `if`, `while`, `for`, `catch`, and `switch`.
-- Keep the opening `{` on the same line as the closing `)` for `if`, `else if`, `while`, `catch`, `for`, and `switch` blocks.
+- Keep opening braces on the same line for block-level elements.
 - Align multiline chained method or property calls.
 - Keep simple blocks on one line when they fit.
 - Always force braces for `if`, `do...while`, `while`, and `for` statements.
@@ -53,7 +53,7 @@ Do not merge `.editorconfig` rules into this spec.
 - Use lowercase `null`.
 - Write `else if`, not `elseif`.
 - Insert exactly one blank line before a `return` statement.
-- Keep the opening `{` on the same line as the closing `)` for `if`, `else if`, `while`, `catch`, `for`, and `switch` blocks.
+- Keep opening braces on the same line for block-level elements.
 - Write closures with no space before `(`.
 - Use spaces around assignments inside `declare(...)`.
 - Keep empty methods on one line.
